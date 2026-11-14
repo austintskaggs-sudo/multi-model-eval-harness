@@ -1,7 +1,7 @@
 date,task,model,model_version_or_label,time_minutes,accuracy_0_2,completeness_0_2,reasoning_0_2,clarity_0_2,format_0_2,total_0_10,notes
-,task-01-research-and-summarise,gemini,,,,,,,,
-,task-01-research-and-summarise,claude,,,,,,,,
-,task-01-research-and-summarise,chatgpt,,,,,,,,
+2026-11-14,task-01-research-and-summarise,gemini,Hydrogen,0.1,2,2,2,2,1,9,
+2026-11-14,task-01-research-and-summarise,claude,Claude Opus 5.5 Medium,0.1,2,2,2,2,2,10,
+2026-11-14,task-01-research-and-summarise,chatgpt,Sol 6.1 High,0.1,2,2,2,2,1,9,
 ,task-02-plan-from-messy-notes,gemini,,,,,,,,
 ,task-02-plan-from-messy-notes,claude,,,,,,,,
 ,task-02-plan-from-messy-notes,chatgpt,,,,,,,,
