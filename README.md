@@ -71,11 +71,3 @@ It needs no extra packages.
   every run.
 - One run per model per task is a starting point. For a stronger
   project, repeat a task, add a task, or add a failure-mode analysis.
-
-## Extending it
-
-- Add a fifth task from your current coursework.
-- Add a failure-mode analysis: group errors by type (missed step,
-  wrong calculation, hallucinated detail, format ignored).
-- Make the repo public on GitHub for your portfolio once you have
-  removed anything personal from the inputs and outputs.
