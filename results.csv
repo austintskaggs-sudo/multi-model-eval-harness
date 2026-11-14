@@ -1,0 +1,13 @@
+date,task,model,model_version_or_label,time_minutes,accuracy_0_2,completeness_0_2,reasoning_0_2,clarity_0_2,format_0_2,total_0_10,notes
+,task-01-research-and-summarise,gemini,,,,,,,,
+,task-01-research-and-summarise,claude,,,,,,,,
+,task-01-research-and-summarise,chatgpt,,,,,,,,
+,task-02-plan-from-messy-notes,gemini,,,,,,,,
+,task-02-plan-from-messy-notes,claude,,,,,,,,
+,task-02-plan-from-messy-notes,chatgpt,,,,,,,,
+,task-03-data-cleanup-and-summary,gemini,,,,,,,,
+,task-03-data-cleanup-and-summary,claude,,,,,,,,
+,task-03-data-cleanup-and-summary,chatgpt,,,,,,,,
+,task-04-debug-and-explain,gemini,,,,,,,,
+,task-04-debug-and-explain,claude,,,,,,,,
+,task-04-debug-and-explain,chatgpt,,,,,,,,
